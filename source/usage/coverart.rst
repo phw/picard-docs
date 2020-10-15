@@ -16,18 +16,18 @@ Setting the Cover Art
 
 Once the release information has been downloaded, selecting an album or track in the right-hand pane will
 display both the original and new coverart for the selected item.  You can easily replace the coverart
-image used for the selected item by dragging the image from the file browser and dropping it on the New
-Cover Art image.
+image used for the selected item by dragging the image from the file browser and dropping it on the
+:guilabel:`New Cover Art` image.
 
 .. image:: ../images/drop-cover-art.png
    :width: 100 %
 
 You can also choose a local file as cover art by right clicking on the image and selecting
-"Choose local file…" from the menu.
+:guilabel:`Choose local file…` from the menu.
 
-The menu also provides additional options including "Show more details", "Keep original cover
-art", and options for the way that images dropped onto the selection are processed.  Selecting "Show more
-details" will bring up a new window as:
+The menu also provides additional options including :guilabel:`Show more details`,
+:guilabel:`Keep original cover art`, and options for the way that images dropped onto the selection
+are processed.  Selecting :guilabel:`Show more details` will bring up a new window as:
 
 .. image:: ../images/coverart_info.png
    :width: 100 %

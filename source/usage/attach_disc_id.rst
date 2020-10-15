@@ -29,7 +29,7 @@ The steps to follow to submit a disc id are:
 
 2. If the target release appears in this list, the disc id has already been attached and you do not need
    to do anything further.  If there are no matches found or the desired target release does not appear in the list,
-   use the :menuselection:`"Submit disc ID"` option to locate the correct release.  Enter the release title or
+   use the :guilabel:`Submit disc ID` option to locate the correct release.  Enter the release title or
    artist and initiate the search.  You will be provided with a list of the releases that match your search criterion
    and have the same number of tracks as your CD toc.
 
@@ -44,7 +44,7 @@ The steps to follow to submit a disc id are:
       click on the artist's name link, you will not be allowed to attach the disc id to any of the releases displayed.
 
 3. Select the desired target release frm the list displayed by clicking the radio button next to the release, and then
-   click the "Attach CD TOC" button below the list of releases.  This will prepare an edit to attach the disc id to the
+   click the :guilabel:`Attach CD TOC` button below the list of releases.  This will prepare an edit to attach the disc id to the
    release.  Add an appropriate edit note, and submit the edit.
 
    .. image:: ../images/add_disc_id_1.png

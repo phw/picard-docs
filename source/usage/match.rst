@@ -35,17 +35,18 @@ matching for you.  If the matching wasn't done automatically, drag the appropria
 Depending on your previous metadata, Picard will try to guess the matching tracks. The order is green > yellow > orange > red,
 where green is the best match. If you are seeing a lot of red and orange, it could mean that Picard has guessed incorrectly, or that
 your files didn't have a lot of previous metadata to work with.  If this is the case, it's recommended to select a track and
-compare the "Original Values" and "New Values" in the metadata pane. If there is an incorrect match, simply drag the track to its
+compare the :guilabel:`Original Values` and :guilabel:`New Values` in the metadata pane. If there is an incorrect match, simply drag the track to its
 correct spot in the right-hand pane.
 
 .. image:: ../images/matching_1.png
    :width: 100%
 
-Right-clicking an item in the track list brings up a menu of commands, including "Info", "Open in Player", "Open Containing Folder",
-"Search for similar tracks", "Lookup in Browser", "Generate AcoustID Fingerprints", "Save" and "Remove".  In addition, you can
-re-run any associated plugins or scripts against only the selected item.  Right-clicking an items in the left-hand pane will bring
-up a similar menu of commands.
+Right-clicking an item in the track list brings up a menu of commands, including :guilabel:`Info`,
+:guilabel:`Open in Player`, :guilabel:`Open Containing Folder`, :guilabel:`Search for similar tracks`,
+:guilabel:`Lookup in Browser`, :guilabel:`Generate AcoustID Fingerprints`, :guilabel:`Save` and :guilabel:`Remove`.
+In addition, you can re-run any associated plugins or scripts against only the selected item.  Right-clicking an items
+in the left-hand pane will bring up a similar menu of commands.
 
 When you select an item in the right-hand pane, the original and new metadata for the item is displayed.  Right-clicking a line in
-the tag list brings up a menu of commands, including "Edit", "Add to 'Preserved Tags' List", "Remove" and "Add New Tag", along with
-an option to display the changed tags first.
+the tag list brings up a menu of commands, including :guilabel:`Edit`, :guilabel:`Add to 'Preserved Tags' List`,
+:guilabel:`Remove` and :guilabel:`Add New Tag`, along with an option to display the changed tags first.

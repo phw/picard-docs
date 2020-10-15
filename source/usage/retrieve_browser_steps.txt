@@ -21,7 +21,7 @@ The steps to follow to manually lookup an album on MusicBrainz are:
 
    |
 
-2. Drag the selected directory or files to the "Unclustered Files" folder, and wait for Picard to process the files -
+2. Drag the selected directory or files to the :guilabel:`Unclustered Files` folder, and wait for Picard to process the files -
    the names will turn from grey to black.
 
    .. image:: ../images/lookup_2.png
